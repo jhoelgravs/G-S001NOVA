@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+
+# Producción
+build/
+
+# Pruebas
+*.test
+
+# Variables de entorno
+.env*
+
+# Directorios
+migrations/
